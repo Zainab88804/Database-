@@ -22,6 +22,7 @@ After thorough analysis, 𝐏𝐨𝐬𝐭𝐠𝐫𝐞𝐒𝐐𝐋 stands out as 
 ## Conclusion
 Database security is crucial for protecting sensitive data. Implementing security best practices can significantly reduce vulnerabilities and enhance overall data protection.
 
+📄 Read the full report here: [Database Report](https://github.com/Zainab88804/Database-/blob/main/Database%20Report.docx)
 
 ## Get in Touch
 Feel free to connect on LinkedIn and discuss database security!🚀 
